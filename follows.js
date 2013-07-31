@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'UzcQItgKiVYJArE6XMCPIJHhz7rW2ykeJ2T3K8TdDuIEJFl3', // Unique master Xively API key to be used as a default
+	var defaultKey		= '8EwXdRU3lzd071zNnoksl5k6HsPzxEhnSYy7HkXqAHoczG8Y', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [415569801], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Prismatron', // Replaces Xively logo in the header
 		dataDuration	= '24 hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
