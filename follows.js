@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '8EwXdRU3lzd071zNnoksl5k6HsPzxEhnSYy7HkXqAHoczG8Y', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [415569801], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'TrFFMI88EMYIQel5qydrxgYbolTpODyAYiVfVXJmTVrHqnjX', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [73778695], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Prismatron', // Replaces Xively logo in the header
 		dataDuration	= '24 hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
